@@ -1,0 +1,7 @@
+package br.com.geekuniversity.secao13;
+
+public class Programa31 {
+    public static void main(String[] args) {
+
+    }
+}
